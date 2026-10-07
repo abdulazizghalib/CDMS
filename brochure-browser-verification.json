@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "view": "dashboard",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "cards": 5
+    },
+    {
+      "view": "inventory",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "cards": 8
+    },
+    {
+      "view": "sales",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "cards": 0
+    },
+    {
+      "view": "reports",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "cards": 0
+    },
+    {
+      "view": "settings",
+      "width": 1440,
+      "overflow": false,
+      "images": true,
+      "cards": 0
+    },
+    {
+      "view": "dashboard",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "cards": 5
+    },
+    {
+      "view": "inventory",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "cards": 8
+    },
+    {
+      "view": "sales",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "cards": 0
+    },
+    {
+      "view": "reports",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "cards": 0
+    },
+    {
+      "view": "settings",
+      "width": 390,
+      "overflow": false,
+      "images": true,
+      "cards": 0
+    }
+  ],
+  "exceptions": []
+}

@@ -1,0 +1,1260 @@
+{
+  "repaired": [
+    "MAINACTMAX",
+    "BRANSHMAX",
+    "SALES_INVOICE_VIEW",
+    "INV_SALES_DET_VIEW",
+    "INVOICE_DATAIL2_VIEW",
+    "INVOICE_PRINT_VIEW",
+    "INVOICE_CLOSE_DETAIL",
+    "INVOICE_CLOSE_DETAIL_VIEW",
+    "SALES_COST_VIEW",
+    "SALES_CLOSE_COST_VIEW"
+  ],
+  "remaining": [
+    {
+      "OBJECT_NAME": "FUN_DAMIGE_RETURN_TOTAL",
+      "OBJECT_TYPE": "FUNCTION"
+    },
+    {
+      "OBJECT_NAME": "FUN_PURCHASE_RETURN_TOTAL",
+      "OBJECT_TYPE": "FUNCTION"
+    },
+    {
+      "OBJECT_NAME": "FUN_RETURN_PROD_NAME",
+      "OBJECT_TYPE": "FUNCTION"
+    },
+    {
+      "OBJECT_NAME": "FUN_TRANSEFER_RETURN_TOTAL",
+      "OBJECT_TYPE": "FUNCTION"
+    },
+    {
+      "OBJECT_NAME": "BB_ENT_DETAIL1_DELETE",
+      "OBJECT_TYPE": "TRIGGER"
+    },
+    {
+      "OBJECT_NAME": "CAR_PURCHASE_ACTION_TRIGGER",
+      "OBJECT_TYPE": "TRIGGER"
+    },
+    {
+      "OBJECT_NAME": "CAR_PURCHASE_BEFORE_DELETE",
+      "OBJECT_TYPE": "TRIGGER"
+    },
+    {
+      "OBJECT_NAME": "C_ENT_DETAIL1_DELETE",
+      "OBJECT_TYPE": "TRIGGER"
+    },
+    {
+      "OBJECT_NAME": "T_CENT_DELETE",
+      "OBJECT_TYPE": "TRIGGER"
+    },
+    {
+      "OBJECT_NAME": "T_CENT_UPDATE",
+      "OBJECT_TYPE": "TRIGGER"
+    },
+    {
+      "OBJECT_NAME": "ASSACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "BANKACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "BUYPURMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "BUYPURSUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "BUYVIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CAFEAMOUNT",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CAFEEGRD",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CAFEINV",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CAFESUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CAFESUM1",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CAFESUMALL",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CAFFEBUY",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CARACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CARTV",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CARTVIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CAR_AUCTION_VIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "CLOSE_CASHIER_MAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "DACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "DAMIGE_COST_VIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "DAMIGE_MAX_VIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "DENTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "EENTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "EENTPURMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "EENTQUANTITY",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "EMPACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "ENTPURSUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "EXPACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "EXPIACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "EXPSACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "EXPSSACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "FURACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "GAIDOPEN",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "GRDMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "GRDPURMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "GRDQUANTITY",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "GROUPMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "GROUP_PROD",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "INVBUYQUANTITY",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "INVBUYRETMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "INVBUYRETSUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "INVBUYRETURNMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "INVBUYRETURNQUANTITY",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "INVBUYSUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "INVOICE",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "INVSELLDETMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "INVSUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "IRAD",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "IRADDAY",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "LASTSUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "MIZAN",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "MONTHSUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "MOVESUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "MOVINVMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "MOVMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "MSROF",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "MSROFDAY",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "OPENMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "OPENPURMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PRACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PRODINFO",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PRODMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PRODUCTPOINTER",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PRODUCT_COLLECT_VIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PRODUCT_DAMIGE_DET_VIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PROD_INFO",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PROD_MAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PROD_STORE_GROUP",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PRSTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PURCHASE_INVOICE_DET_VIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "PURVIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "RASEED",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "RASSED",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "RECEIVEVOOC",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "RECEIVEVOUC",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "RSACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "SALACTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "SALESQUAN",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "SALESSUM",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "SELLRETURNMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "STOCK_LEDGER_DETAIL",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "STOREMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "STOREQUANTITY",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "STORE_PROD",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "STPROD",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "SUBVIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "SUMMSROG",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "TRANSEFER_COST_VIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "TRANSEFER_INFO_DET_VIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "TRANSEFER_MAX_VIEW",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "UNITMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "VENT",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "YENTMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "YENTPURMAX",
+      "OBJECT_TYPE": "VIEW"
+    },
+    {
+      "OBJECT_NAME": "YOMIA",
+      "OBJECT_TYPE": "VIEW"
+    }
+  ],
+  "errors": [
+    {
+      "NAME": "ASSACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "BANKACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "BB_ENT_DETAIL1_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 4,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "BB_ENT_DETAIL1_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 4,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "BB_ENT_DETAIL1_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 5,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "BB_ENT_DETAIL1_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 5,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "BUYPURMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "BUYPURSUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "BUYVIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "CACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "CAFEAMOUNT",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.CAFESUM1\" has errors\n"
+    },
+    {
+      "NAME": "CAFEEGRD",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "CAFEINV",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "CAFESUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.CAFEINV\" has errors\n"
+    },
+    {
+      "NAME": "CAFESUM1",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.CAFEINV\" has errors\n"
+    },
+    {
+      "NAME": "CAFESUMALL",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.CAFEINV\" has errors\n"
+    },
+    {
+      "NAME": "CAFFEBUY",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "CARACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "CARTV",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "CARTVIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "CAR_AUCTION_VIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "CAR_PURCHASE_ACTION_TRIGGER",
+      "TYPE": "TRIGGER",
+      "LINE": 8,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "CAR_PURCHASE_ACTION_TRIGGER",
+      "TYPE": "TRIGGER",
+      "LINE": 8,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "CAR_PURCHASE_ACTION_TRIGGER",
+      "TYPE": "TRIGGER",
+      "LINE": 13,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "CAR_PURCHASE_ACTION_TRIGGER",
+      "TYPE": "TRIGGER",
+      "LINE": 13,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "CAR_PURCHASE_ACTION_TRIGGER",
+      "TYPE": "TRIGGER",
+      "LINE": 17,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "CAR_PURCHASE_ACTION_TRIGGER",
+      "TYPE": "TRIGGER",
+      "LINE": 17,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "CAR_PURCHASE_BEFORE_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 6,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "CAR_PURCHASE_BEFORE_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 6,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "CAR_PURCHASE_BEFORE_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 11,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "CAR_PURCHASE_BEFORE_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 11,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "CLOSE_CASHIER_MAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "C_ENT_DETAIL1_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 4,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "C_ENT_DETAIL1_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 4,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "C_ENT_DETAIL1_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 5,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "C_ENT_DETAIL1_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 5,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "DACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "DAMIGE_COST_VIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "DAMIGE_MAX_VIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "DENTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "EENTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "EENTPURMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "EENTQUANTITY",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "EMPACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "ENTPURSUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "EXPACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "EXPIACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "EXPSACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "EXPSSACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "FUN_DAMIGE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 7,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "FUN_DAMIGE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 7,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "FUN_DAMIGE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 8,
+      "TEXT": "PLS-00364: loop index variable 'I' use is invalid"
+    },
+    {
+      "NAME": "FUN_DAMIGE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 8,
+      "TEXT": "PL/SQL: Statement ignored"
+    },
+    {
+      "NAME": "FUN_DAMIGE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 9,
+      "TEXT": "PLS-00364: loop index variable 'I' use is invalid"
+    },
+    {
+      "NAME": "FUN_DAMIGE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 9,
+      "TEXT": "PL/SQL: Statement ignored"
+    },
+    {
+      "NAME": "FUN_PURCHASE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 7,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "FUN_PURCHASE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 7,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "FUN_PURCHASE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 8,
+      "TEXT": "PLS-00364: loop index variable 'I' use is invalid"
+    },
+    {
+      "NAME": "FUN_PURCHASE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 8,
+      "TEXT": "PL/SQL: Statement ignored"
+    },
+    {
+      "NAME": "FUN_PURCHASE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 9,
+      "TEXT": "PLS-00364: loop index variable 'I' use is invalid"
+    },
+    {
+      "NAME": "FUN_PURCHASE_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 9,
+      "TEXT": "PL/SQL: Statement ignored"
+    },
+    {
+      "NAME": "FUN_RETURN_PROD_NAME",
+      "TYPE": "FUNCTION",
+      "LINE": 7,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "FUN_RETURN_PROD_NAME",
+      "TYPE": "FUNCTION",
+      "LINE": 7,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "FUN_TRANSEFER_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 14,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "FUN_TRANSEFER_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 7,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "FUN_TRANSEFER_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 15,
+      "TEXT": "PLS-00364: loop index variable 'I' use is invalid"
+    },
+    {
+      "NAME": "FUN_TRANSEFER_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 15,
+      "TEXT": "PL/SQL: Statement ignored"
+    },
+    {
+      "NAME": "FUN_TRANSEFER_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 16,
+      "TEXT": "PLS-00364: loop index variable 'I' use is invalid"
+    },
+    {
+      "NAME": "FUN_TRANSEFER_RETURN_TOTAL",
+      "TYPE": "FUNCTION",
+      "LINE": 16,
+      "TEXT": "PL/SQL: Statement ignored"
+    },
+    {
+      "NAME": "FURACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "GAIDOPEN",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "GRDMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "GRDPURMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "GRDQUANTITY",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "GROUPMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "GROUP_PROD",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "INVBUYQUANTITY",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "INVBUYRETMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "INVBUYRETSUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "INVBUYRETURNMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "INVBUYRETURNQUANTITY",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "INVBUYSUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.INVBUYQUANTITY\" has errors\n"
+    },
+    {
+      "NAME": "INVOICE",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "INVSELLDETMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "INVSUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "IRAD",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "IRADDAY",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.IRAD\" has errors\n"
+    },
+    {
+      "NAME": "LASTSUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.MONTHSUM\" has errors\n"
+    },
+    {
+      "NAME": "MIZAN",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "MONTHSUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "MOVESUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "MOVINVMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "MOVMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "MSROF",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "MSROFDAY",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.MSROF\" has errors\n"
+    },
+    {
+      "NAME": "OPENMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "OPENPURMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PRACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PRODINFO",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PRODMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PRODUCTPOINTER",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PRODUCT_COLLECT_VIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PRODUCT_DAMIGE_DET_VIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PROD_INFO",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PROD_MAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PROD_STORE_GROUP",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PRSTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PURCHASE_INVOICE_DET_VIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "PURVIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "RASEED",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.IRADDAY\" has errors\n"
+    },
+    {
+      "NAME": "RASSED",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.MSROF\" has errors\n"
+    },
+    {
+      "NAME": "RECEIVEVOOC",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "RECEIVEVOUC",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "RSACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "SALACTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "SALESQUAN",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "SALESSUM",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.SALESQUAN\" has errors\n"
+    },
+    {
+      "NAME": "SELLRETURNMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "STOCK_LEDGER_DETAIL",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00904: \"SL_SERIAL_NO\": invalid identifier\n"
+    },
+    {
+      "NAME": "STOREMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "STOREQUANTITY",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "STORE_PROD",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "STPROD",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "SUBVIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "SUMMSROG",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.MSROF\" has errors\n"
+    },
+    {
+      "NAME": "TRANSEFER_COST_VIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "TRANSEFER_INFO_DET_VIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "TRANSEFER_MAX_VIEW",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "T_CENT_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 4,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "T_CENT_DELETE",
+      "TYPE": "TRIGGER",
+      "LINE": 4,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "T_CENT_UPDATE",
+      "TYPE": "TRIGGER",
+      "LINE": 4,
+      "TEXT": "PL/SQL: ORA-00942: table or view does not exist"
+    },
+    {
+      "NAME": "T_CENT_UPDATE",
+      "TYPE": "TRIGGER",
+      "LINE": 4,
+      "TEXT": "PL/SQL: SQL Statement ignored"
+    },
+    {
+      "NAME": "UNITMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "VENT",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "YENTMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "YENTPURMAX",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-00942: table or view does not exist\n"
+    },
+    {
+      "NAME": "YOMIA",
+      "TYPE": "VIEW",
+      "LINE": 0,
+      "TEXT": "ORA-04063: view \"OPAL.IRAD\" has errors\n"
+    }
+  ]
+}
