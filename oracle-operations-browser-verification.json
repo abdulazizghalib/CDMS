@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-03T06:01:33.256Z",
+  "results": [
+    {
+      "name": "Personal login and server-issued session",
+      "passed": true
+    },
+    {
+      "name": "Create cost center through browser",
+      "passed": true
+    },
+    {
+      "name": "Edit loads full record and saves latest version",
+      "passed": true
+    },
+    {
+      "name": "Delete requires confirmation and removes record",
+      "passed": true
+    },
+    {
+      "name": "Report filters three committed operations by authenticated actor",
+      "passed": true
+    },
+    {
+      "name": "Deleted data remains available in audit detail",
+      "passed": true
+    },
+    {
+      "name": "Mobile report layout",
+      "passed": true
+    },
+    {
+      "name": "Logout revokes access to audit report",
+      "passed": true
+    }
+  ]
+}

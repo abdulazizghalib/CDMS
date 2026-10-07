@@ -1,0 +1,216 @@
+{
+  "createdTables": [
+    {
+      "table": "ASS_ACT",
+      "rows": 0
+    },
+    {
+      "table": "B_ENT",
+      "rows": 0
+    },
+    {
+      "table": "BANK_ACT",
+      "rows": 0
+    },
+    {
+      "table": "C_ACT",
+      "rows": 0
+    },
+    {
+      "table": "CAR_ACT",
+      "rows": 0
+    },
+    {
+      "table": "CAR_AUCTION_DETAIL",
+      "rows": 0
+    },
+    {
+      "table": "CAR_LEDGER",
+      "rows": 0
+    },
+    {
+      "table": "CLOSE_CASHEIR",
+      "rows": 0
+    },
+    {
+      "table": "D_ACT",
+      "rows": 0
+    },
+    {
+      "table": "D_ENT",
+      "rows": 0
+    },
+    {
+      "table": "E_ENT",
+      "rows": 0
+    },
+    {
+      "table": "E_ENT_PUR",
+      "rows": 0
+    },
+    {
+      "table": "EMP_ACT",
+      "rows": 0
+    },
+    {
+      "table": "ENT",
+      "rows": 0
+    },
+    {
+      "table": "ENTDETAIL",
+      "rows": 0
+    },
+    {
+      "table": "EXP_ACT",
+      "rows": 0
+    },
+    {
+      "table": "EXPA_ACT",
+      "rows": 0
+    },
+    {
+      "table": "EXPI_ACT",
+      "rows": 0
+    },
+    {
+      "table": "EXPS_ACT",
+      "rows": 0
+    },
+    {
+      "table": "FUR_ACT",
+      "rows": 0
+    },
+    {
+      "table": "GRD_PUR",
+      "rows": 0
+    },
+    {
+      "table": "GRDPROD",
+      "rows": 0
+    },
+    {
+      "table": "GROUP_DESC",
+      "rows": 0
+    },
+    {
+      "table": "INV_BUY",
+      "rows": 0
+    },
+    {
+      "table": "INV_BUY_PUR",
+      "rows": 0
+    },
+    {
+      "table": "INV_BUY_RET",
+      "rows": 0
+    },
+    {
+      "table": "INV_BUY_RETURN",
+      "rows": 0
+    },
+    {
+      "table": "INV_MOVE",
+      "rows": 0
+    },
+    {
+      "table": "INV_PUR",
+      "rows": 0
+    },
+    {
+      "table": "INV_SELL_DET",
+      "rows": 0
+    },
+    {
+      "table": "INV_SELL_RETURN",
+      "rows": 0
+    },
+    {
+      "table": "OPENGAID",
+      "rows": 0
+    },
+    {
+      "table": "OPENSTART1",
+      "rows": 0
+    },
+    {
+      "table": "PR_ACT",
+      "rows": 0
+    },
+    {
+      "table": "PRODMOVE",
+      "rows": 0
+    },
+    {
+      "table": "PRODUCT",
+      "rows": 0
+    },
+    {
+      "table": "PRODUCT_COLLECT",
+      "rows": 0
+    },
+    {
+      "table": "PRODUCT_DAMIGE",
+      "rows": 0
+    },
+    {
+      "table": "PRODUCT_DAMIGE_DETAIL",
+      "rows": 0
+    },
+    {
+      "table": "PRODUCT_INFO",
+      "rows": 0
+    },
+    {
+      "table": "PRODUCTCART",
+      "rows": 0
+    },
+    {
+      "table": "PURCHASE_INVOICE_DETAIL",
+      "rows": 0
+    },
+    {
+      "table": "RS_ACT",
+      "rows": 0
+    },
+    {
+      "table": "SAL_ACT",
+      "rows": 0
+    },
+    {
+      "table": "STORE_DESC",
+      "rows": 0
+    },
+    {
+      "table": "STORE_PRODUCT",
+      "rows": 0
+    },
+    {
+      "table": "SUB_PROD",
+      "rows": 0
+    },
+    {
+      "table": "TRANSEFER_INFO",
+      "rows": 0
+    },
+    {
+      "table": "TRANSEFER_INFO_DETAIL",
+      "rows": 0
+    },
+    {
+      "table": "UNITDESC",
+      "rows": 0
+    },
+    {
+      "table": "Y_ENT",
+      "rows": 0
+    },
+    {
+      "table": "Y_ENT_PUR",
+      "rows": 0
+    }
+  ],
+  "invalidObjects": [],
+  "errors": [],
+  "stockRows": 613,
+  "stockDetailRows": 613
+}

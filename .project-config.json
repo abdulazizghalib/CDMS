@@ -1,0 +1,50 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [
+    "server",
+    "db",
+    "user"
+  ],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "DATABASE_URL": "mysql://2g7tU9M8JJno8z7.e8f5b7237355:XPD7vTG9lhfRRn70U5B3@gateway03.us-east-1.prod.aws.tidbcloud.com:4000/FUS7sPEqrNfxeZ2bEgzBr9?ssl={\"rejectUnauthorized\":true}",
+    "DRIZZLE_DATABASE_URL": "mysql://2g7tU9M8JJno8z7.e8f5b7237355:XPD7vTG9lhfRRn70U5B3@gateway03.us-east-1.prod.aws.tidbcloud.com:4000/FUS7sPEqrNfxeZ2bEgzBr9?ssl={\"rejectUnauthorized\":true}",
+    "MANUS_WEBDEV_PROJECT_ID": "FUS7sPEqrNfxeZ2bEgzBr9"
+  },
+  "experiments": [
+    "no_db_push"
+  ],
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/FUS7sPEqrNfxeZ2bEgzBr9.git",
+    "expiration": "2026-08-27T06:13:49.055Z",
+    "token": "art_v2_x_56b0f0a2613747fe735b7cbe8bf2f8fffa6d3866?expires=1787811229",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "car-dealer-management",
+  "path": "/home/ubuntu/car-dealer-management",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "FY9hqyuBSknws4DUuTcu5H",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "CZmYZD5Jx9CLftZpEjM3Bb",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "ORACLE_HOST": "127.0.0.1",
+    "ORACLE_PASSWORD": "OPAL",
+    "ORACLE_PORT": "1521",
+    "ORACLE_SERVICE_NAME": "ORCL",
+    "ORACLE_USER": "OPAL",
+    "ORACLE_VERSION": "OracleDatabase19cEnterpriseEditionRelease19.0.0.0.0-ProductionVersion19.3.0.0.0",
+    "OWNER_NAME": "Nashwan Qaid",
+    "OWNER_OPEN_ID": "njB9454Ers6ixA4aZ9nmBp",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "4cbf7e3b-3a25-4a07-8bc2-51846a8378d9",
+    "VITE_APP_ID": "FUS7sPEqrNfxeZ2bEgzBr9",
+    "VITE_APP_LOGO": "https://files.manuscdn.com/user_upload_by_module/web_dev_logo/310519663169339314/KjQGzZxUaGsQqSwd.png",
+    "VITE_APP_TITLE": "منصة إدارة معارض السيارات",
+    "VITE_FRONTEND_FORGE_API_KEY": "VeZqCL8TcxX3niJg5ywGBQ",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-db-user",
+  "test_command": "pnpm test"
+}
